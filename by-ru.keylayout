@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 3.4.2.314 on 2020-10-26 at 12:45 (GMT+2)-->
-<keyboard group="126" id="-29576" name="Русский" maxout="1">
+<keyboard group="126" id="-29576" name="Беларуская" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="ANSI" modifiers="commonModifiers"/>
     </layouts>
