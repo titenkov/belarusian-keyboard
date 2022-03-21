@@ -13,12 +13,13 @@ Keyboard layouts
 
 Do you still need r***ian layout on your keyboard?
 
-`Belarusian~` - standard `r***ian` layout, but with the white-red flag and easy access to belarusian letters.
+`Belarusian~` - standard `r***ian` layout, but with the white-red flag and easy access to unique belarusian letters.
 
 Belarusian-cyrillic keys:
 - `alt-и` for і
 - `alt-ш` or ў
-- `alt-з` for ’
+
+Keyboards are placed in `Belarusian` and `Russian` sections in Settings next to the original ones.
 
 Installation
 ------------
@@ -34,5 +35,3 @@ To start using it, add the belarusian keyboard in the settings (*System Preferen
 ```bash
 open /System/Library/PreferencePanes/Keyboard.prefPane
 ```
-
-*The keyboard is placed in the section Others*

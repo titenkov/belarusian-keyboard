@@ -1,8 +1,7 @@
 #!/bin/bash
 
 cd "$( dirname "${BASH_SOURCE[0]}" )"
-sudo cp be-BY.{icns,keylayout} /Library/Keyboard\ Layouts
-sudo cp ru-BY.{icns,keylayout} /Library/Keyboard\ Layouts
+sudo cp -R BelKeyboard.bundle /Library/Keyboard\ Layouts
 sudo touch /Library/Keyboard\ Layouts
 echo "Belarusian keyboard is installed!"
 open /System/Library/PreferencePanes/Keyboard.prefPane
