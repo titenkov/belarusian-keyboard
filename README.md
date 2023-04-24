@@ -1,8 +1,9 @@
 belarusian-keyboard
 ============
-⬜️🟥⬜️
 
-> Беларуская раскладка з сапраўдным сцягам
+`Беларуская раскладка з сапраўдным сцягам`
+
+![demo](demo.png)
 
 Belarusian keyboard with the real white-red historical Belarusian flag for macOS.
 
@@ -17,7 +18,7 @@ Do you still need r***ian layout on your keyboard?
 
 Belarusian-cyrillic keys:
 - `alt-и` for і
-- `alt-ш` or ў
+- `alt-у` or ў
 
 Keyboards are placed in `Belarusian` and `Russian` sections in Settings next to the original ones.
 
